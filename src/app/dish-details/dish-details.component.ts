@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 import {Dish} from '../shared/dish';
-
+import{DISHES} from '../shared/dishes';
 @Component({
   selector: 'app-dish-details',
   templateUrl: './dish-details.component.html',
@@ -8,8 +8,9 @@ import {Dish} from '../shared/dish';
 })
 export class DishDetailsComponent implements OnInit {
 
+  dishes : Dish[]= DISHES;
   @Input()
-  dish =Dish;
+  dish :Dish;
 
   constructor() { }
 

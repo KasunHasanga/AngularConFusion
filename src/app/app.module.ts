@@ -12,6 +12,8 @@ import { MatGridListModule } from '@angular/material/grid-list';
 import {MatCardModule} from '@angular/material/card';
 import { DishDetailsComponent } from './dish-details/dish-details.component';
 
+import {DishService} from './service/dish.service';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -27,7 +29,9 @@ import { DishDetailsComponent } from './dish-details/dish-details.component';
     MatGridListModule,
     MatCardModule
   ],
-  providers: [],
+  providers: [
+    DishService,
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

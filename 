@@ -1,0 +1,71 @@
+[33mcommit 1e10ed0f72762a1d2a07f3d226021e9ffd2b6527[m[33m ([m[1;36mHEAD -> [m[1;32mKasun[m[33m)[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Tue Jul 7 18:15:00 2020 +0530
+
+    Complete dish service
+
+[33mcommit 53b174b62f28342a8c825f00523c3bdcc679b7d3[m[33m ([m[1;31morigin/Kasun[m[33m)[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Tue Jul 7 16:24:23 2020 +0530
+
+    crete dish services
+
+[33mcommit ca41bb21557551df471c968dabafac076679d75d[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Sat Jul 4 13:30:20 2020 +0530
+
+    Resolve data binding
+
+[33mcommit d6930d771f88050e1e34a4e7daa229026886a672[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Fri Jul 3 15:29:01 2020 +0530
+
+    Data Binding
+
+[33mcommit f8ff1192846b2e6c94f563c28b1d3f9ccdba2994[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Mon Jun 29 01:29:27 2020 +0530
+
+    Make New Compont Dish_details
+
+[33mcommit de46e0eb80cd49ad38e1c2e7018a5f0e726d9958[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Sat Jun 27 23:15:53 2020 +0530
+
+    Add card to show selected food
+
+[33mcommit 72d41075d21b54250bc8d64f4b5268c7f49b4229[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Sat Jun 27 20:01:55 2020 +0530
+
+    Update andgular version 10 from 9 and it work fine
+
+[33mcommit 91b82d29f40f0b4d7c74fa37bb0ce0f0e61acd6b[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Sat Jun 27 19:54:00 2020 +0530
+
+    make changes in menu Component and add depencesis
+
+[33mcommit b9124cef15dfbf7dd036d4ba5b03677dda366c8d[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Sat Jun 27 02:35:06 2020 +0530
+
+    Add Dishes and work success
+
+[33mcommit 779b26f8f08881dea9d9b05817510b6cab00d515[m[33m ([m[1;32mmaster[m[33m)[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Sat Jun 27 01:15:29 2020 +0530
+
+    generate Component and add immages for menu
+
+[33mcommit bf4e98246dc7d4100582c4a672f8b88f019297c2[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Fri Jun 26 17:01:20 2020 +0530
+
+    make basic configuration
+
+[33mcommit 05f644271cc51b4347e456472e2128118f263385[m
+Author: KasunHasanga <kasunhasanga96@gmail.com>
+Date:   Fri Jun 26 12:30:23 2020 +0530
+
+    initial commit
